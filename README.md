@@ -61,5 +61,5 @@ In conclusion, this AI Chatbot app reflects both my technical proficiency and de
 
 #OUTPUT
 
-https://github.com/user-attachments/assets/f2478fa8-30fd-4201-9457-035828283105
+<img width="1366" height="644" alt="Image" src="https://github.com/user-attachments/assets/f2478fa8-30fd-4201-9457-035828283105" />
  
